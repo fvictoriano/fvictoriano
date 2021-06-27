@@ -1,4 +1,11 @@
 
 Fillipe Victoriano, 21 years old, Brazil.
 
-Knows: HTML5,CSS,BOOTSTRAP,JAVASCRIPT
+HTML5 ✓
+CSS ✓
+BOOSTRAP 4 ✓
+JAVASCRIPT ✓
+ECS6 ✓
+PHP ✓
+
+
