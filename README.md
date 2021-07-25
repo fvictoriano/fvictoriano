@@ -1,11 +1,19 @@
 
-Fillipe Victoriano, 21 years old, Brazil.
+# Hi, I'm Fillipe Victoriano, 21 years old, Brazil. 👋
+## I'm web development student, and and passionate about technology 😁
 
-HTML5 ✓
-CSS ✓
-BOOSTRAP 4 ✓
-JAVASCRIPT ✓
-ECS6 ✓
-PHP ✓
+### I currently have knowledge of these technologies
 
-
+* Html5
+* CSS
+* SASS
+* Javascript (ES8)
+* Bootstrap
+* PHP
+* Node.js
+  * Express
+  * Ejs
+  * Sequelize
+  * Bcrypt
+* MVC 
+* mySQL/mariaDB
